@@ -2,232 +2,188 @@
 
 Presents
 
-Our Wednesday line-up
+## Our Wednesday line-up
 
 Celebrating tastes of the United States of America
 
 ---
 
-Southern banana bread
+### Southern banana bread
 
 Bananas
 
 Chris Nager
 
-Pre-open
+_Pre-open_
 
 ---
-
-Evan Carter
 
 Muffins
 
 Blueberry
 
-Wednesday
+Evan Carter
 
-Breakfast
+_Pre-open_
 
 ---
 
-Kate Lynch
-
-mini grilled cheese and tomato soup shooters
+Mini grilled cheese and tomato soup shooters
 
 Chicken stock, crushed tomatoes, cream, basil, gruyere cheese, bread, butter
 
-Wednesday
+Kate Lynch
 
-Lunch
+_Lunch_
 
 ---
-
-Daniel Aisen
 
 Steak; kale and beet salad
 
 28 day dry-aged ribeye, prepared sous vide, finished with thyme and garlic; Kale, Roasted Beets, Goat Cheese, Tomatoes, Creamy Balsamic Dressing
 
-Wednesday
+Daniel Aisen
 
-Lunch
+_Lunch_
 
 ---
-
-Eric Schmid
 
 Spare Ribs
 
 Ribs, love, maybe peanuts I don't know
 
-Wednesday
+Eric Schmid
 
-Lunch
+_Lunch_
 
 ---
-
-John Ramsay
 
 Wings
 
-Wednesday
+John Ramsay
 
-Lunch
+_Lunch_
 
 ---
 
-Shelby Taylor
-
-Garlic/bacon/beer mac and cheese, Pineapple upside-down cake
+Garlic/bacon/beer mac and cheese, pineapple upside-down cake
 
 Guiness
 
-wednesday
+Shelby Taylor
+
+_Lunch_
 
 ---
-
-Valerie Priven
 
 Three-layer Brownies
 
 Brownie, oreo, chocolate chip cookie
 
-Wednesday
+Valerie Priven
 
-Dessert
+_Dessert_
 
 ---
-
-Jeremy Slovak
 
 Secret breakfast
 
 Corn flakes, bourbon
 
-Wednesday
+Jeremy Slovak
 
-Dessert
+_Dessert_
 
 ---
-
-Francis Choi/Valerie Priven/Daniel Aisen
 
 Miracle Berries Tasting Miracle Berries, Sour Patch Kids, Sour Patch Watermelon, Lime, Lemon,Beer, Tequila
 
-Wednesday
+Francis Choi/Valerie Priven/Daniel Aisen
 
-Post-close
-
----
+_Post-close_
 
 
 
-
-
-
-
-
-
-
----
-
-Thursday line-up
+## Thursday line-up
 
 Celebrating tastes from around the globe
 
 ---
 
-Claudia Crowley
+Strata (Italian Breakfast Quiche)
+
+(italian) Eggs, Sausage, Peppers, Tomatoes and Spinach
+
+Jonathan Muscarella
+
+_Pre-open_
+
+---
 
 Roasted Chicken Provençal
 
 (french)
 
-Thursday
+Claudia Crowley
 
-Lunch
+_Lunch_
 
 ---
-
-Elaine Wah
 
 Char siu (Chinese BBQ pork)
 
 (chinese) Pork (Sous Vide preparation, Blowtorch finish)
 
-Thursday
+Elaine Wah
 
-Lunch
+_Lunch_
 
 ---
-
-Francis Choi
 
 Yakitori (meat on a stick)
 
 (japanese) Chicken, Pork, Beef, Onions, Peppers, Soy Sauce
 
-Thursday
+Francis Choi
 
-Lunch
-
----
-
-Jonathan Muscarella
-
-Strata (Italian Breakfast Quiche)
-
-(italian) Eggs, Sausage, Peppers, Tomatoes and Spinach
-
-Thursday
-
-Breakfast
+_Lunch_
 
 ---
 
-Michael Russell
+Lasagna
+
+Secret family recipe. Only Nonna knows. But avoid if you are allergic to dairy or don't eat meat.
+
+Rob Dukesherer
+
+_Lunch_
+
+---
 
 Chicken tikka masala, chocolate mousse
 
 (indian; french) 1. Dairy, Meat, All of the spices. 2. Chocolate, butter,
 sugar, cream... basically the Nigella Lawson staples.
 
-Thursday
+Michael Russell
 
-Lunch / Dessert
-
----
-
-Rob Dukesherer
-
-Lasagna
-
-Secret family recipe. Only Nonna knows. But avoid if you are allergic to dairy or don't eat meat.
-
-Thursday
-
-Lunch
+_Lunch_ / _Dessert_
 
 ---
-
-
-Ellen Chang
-
-Mung bean dessert soup; Ellen's world class cocktail bar (chinese) ; (cuban) hand-made mojitos + ??
-
-Thursday
-
-Dessert / drinks
-
----
-
-Rob Salman
 
 Labneh
 
-Thursday
+Rob Salman
 
-Lunch
+_Lunch_
+
+---
+
+Mung bean dessert soup; Ellen's world class cocktail bar (chinese) ; (cuban) hand-made mojitos + ??
+
+Ellen Chang
+
+_Post-close_
 
 ---
 
